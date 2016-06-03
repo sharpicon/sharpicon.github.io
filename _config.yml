@@ -9,8 +9,8 @@ url: "http://sharpicon.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: http://sharpicon.github.io/
+  #oogleplus: https://www.google.com/+MotaquillahMaddane
+  github: sharpicon
   twitter: electrik_frog
   # disqus: your_disqus_username
 
